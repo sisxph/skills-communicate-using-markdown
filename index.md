@@ -6,3 +6,7 @@ Markdown syndrome
 ```
 $ sudo rm -rf /system32
 ```
+
+- [ ] jaj
+- [ ] jaaj
+- [X] jaaaj
